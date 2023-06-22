@@ -1,0 +1,12 @@
+package com.Main;
+
+public class Main {
+
+	public static void main(String args[]) {
+	String name="Anusha";
+	//prints ASCII Value at a given char
+	//Take the index as input and return the ascii value at each index
+	System.out.println(name.codePointAt(5));
+	
+	}
+	}
